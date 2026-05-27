@@ -1,5 +1,6 @@
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/866f7074-7b3a-4ec6-9aed-7c0103efdf14" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/df544dbe-c5f0-4d50-83c0-b30c8b8444e8" />
+
 
 
 # CHESS-Summer-School-Quantum Materials Beamline
