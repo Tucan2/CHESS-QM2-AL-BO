@@ -1,7 +1,7 @@
 # literature
 
-🔗 [On-the-fly closed-loop materials discovery via Bayesian active learning](https://doi.org/10.1038/s41467-020-19597-w)
-🔗 [On-the-fly autonomous control of neutron diffraction via physics-informed Bayesian active learning](https://doi.org/xxxxx)
+- [ ] 🔗 [On-the-fly closed-loop materials discovery via Bayesian active learning](https://doi.org/10.1038/s41467-020-19597-w)
+- [ ] 🔗 [On-the-fly autonomous control of neutron diffraction via physics-informed Bayesian active learning](https://doi.org/xxxxx)
 
 
 
