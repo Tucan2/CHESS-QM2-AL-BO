@@ -20,15 +20,14 @@ This repository contains:
 - Learn about fundamentals of synchrotron data and AI applications
 - Work on hands-on scientic projects
 
-
-## 📌 Quick Navigation
+## Quick Navigation
 
 - introduction
 - projects-2026
 - setup-guide
 - repository-structure
 
-## 📖 Introduction
+## Introduction
 Get started with essential resources:
 
 - ./introduction/onboarding.md – Start here if you're new
@@ -36,7 +35,7 @@ Get started with essential resources:
 - ./introduction/env_creation.md – Configure your environment
 - ./introduction/README.md – Section summary
 
-## 🧪 Projects (2026)
+##  Projects (2026)
 Explore project tracks for the summer school:
 - Project 1 — Bayesian Optimization (BO)
   - ./project/2026/project1-BO/README.md
@@ -114,5 +113,5 @@ Feel free to open issues or submit pull requests.
 This project is licensed under the terms of the MIT License.
 See the ./LICENSE file for details.
 
-##✨ Acknowledgments
+## Acknowledgments
 Organized as part of the CHESS Summer School QM2 Program 2026 for NSF AI-MI summer research and CICF Summe rprograms.
