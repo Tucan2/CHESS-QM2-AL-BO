@@ -15,6 +15,7 @@ This repository contains:
 - Work on hands-on projects
 - Collaborate with peers
 
+```
 ├── README.md
 ├── introduction/
 │   └── onboarding.md
@@ -35,3 +36,4 @@ This repository contains:
             ├── README.md
             ├── starter_code/
             └── data/
+```
