@@ -32,16 +32,19 @@ This repository contains:
     └── 2026/
         ├── project1-BO/
         │   ├── README.md
+        │   ├── literature/
         │   ├── starter_code/
         │   └── data/
         │
         ├── project2-AgenticAI/
         │   ├── README.md
+        │   ├── literature/
         │   ├── starter_code/
         │   └── data/
         │
         └── project3-DL/
             ├── README.md
+            ├── literature/
             ├── starter_code/
             └── data/
 
