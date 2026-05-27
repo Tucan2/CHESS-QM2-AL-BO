@@ -24,12 +24,12 @@ In this HfV2 folder, you will able to see lots of temperature :
 
 You should extract the images listed below, making sure to select the files from the same position in each temperature set. If you go to the temperature-dependent folder, go to the 1st folder of each temperature. For every temperature, there are three folders (e.g., HfV2_012, HfV2_013, HfV2_014). 
 
-
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/65
-drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_014
-drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_013
-drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_012
-
+      ```
+      /nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/65
+      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_014
+      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_013
+      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_012
+      ```
 
 Select the first folder in the sequence (HfV2_012) and take its images (00001.cbf, 00002.cbf, …).
 /nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/37/HfV2_012/
