@@ -1,5 +1,7 @@
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/df544dbe-c5f0-4d50-83c0-b30c8b8444e8" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df544dbe-c5f0-4d50-83c0-b30c8b8444e8" width="400" alt="CHESS Summer School Quantum Materials Beamline Logo">
+</p>
 
 
 
