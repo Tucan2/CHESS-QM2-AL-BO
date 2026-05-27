@@ -53,7 +53,7 @@ Students will be issued a monthly radiation badge after:
 
 ### After Arrival
 - [ ] Attend CHESS User Meeting
-- [ ] (Recommend to attend X-cite workshop)[https://indico.classe.cornell.edu/event/2582/]
+- [ ] [Recommend to attend X-cite workshop](https://indico.classe.cornell.edu/event/2582/)
 - [ ] Complete CHESS User Quiz (BeamPASS)  
 - [ ] Review orientation materials  
 - [ ] Attend safety walkthrough  
