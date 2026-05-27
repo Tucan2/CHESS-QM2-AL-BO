@@ -21,20 +21,20 @@ This repository contains:
 - Work on hands-on scientic projects
 
 
-📌 Quick Navigation
+## 📌 Quick Navigation
 
-#-introduction
-#-projects-2026
-#️-setup-guide
-#-repository-structure
+-introduction
+-projects-2026
+-setup-guide
+-repository-structure
 
-📖 Introduction
+## 📖 Introduction
 Get started with essential resources:
 
-🔰 ./introduction/onboarding.md – Start here if you're new
-💻 ./introduction/clusteraccess.md – Access compute resources
-🧱 ./introduction/env_creation.md – Configure your environment
-📘 ./introduction/README.md – Section summary
+- ./introduction/onboarding.md – Start here if you're new
+- ./introduction/clusteraccess.md – Access compute resources
+- ./introduction/env_creation.md – Configure your environment
+- ./introduction/README.md – Section summary
 
 🧪 Projects (2026)
 Explore project tracks for the summer school:
