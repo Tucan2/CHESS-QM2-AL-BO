@@ -45,20 +45,17 @@ Process synchrotron data
 Execute training jobs
 
 
-⚠️ Important Notes
-```
-[!WARNING]
-Activate your own environment
+## ⚠️ Important Notes
 
-[!IMPORTANT]
-Always request only the resources you need to avoid long wait times.
+> [!WARNING]
+> Activate your own environment
 
+> [!IMPORTANT]
+> Always request only the resources you need to avoid long wait times.
 
-[!TIP]
-If your job takes too long to start, consider requesting fewer resources.
+> [!TIP]
+> If your job takes too long to start, consider requesting fewer resources.
 
-
-[!WARNING]
-Do not run heavy computations directly on the login node (lnx201).
-
-```
+> [!WARNING]
+> Do not run heavy computations directly on the login node (`lnx201`).
+``
