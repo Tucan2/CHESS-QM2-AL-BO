@@ -1,9 +1,24 @@
 ## Create a python environment at lnx201
-`ssh <username>@lnx201.classe.cornell.edu`
 
+#### ✅ Step 3: Login to the lnx201
+`ssh -Y <username>@lnx201.classe.cornell.edu`
 
+#### ✅ Step 2: Start an Interactive Job Session
+  - Once logged in, run:
+        `qrsh -q interactive.q -l mem_free=200G -pe sge_pe 8` 
 
+#### ✅ Step 3: Go to the fife location
+        `cd /nfs/chess/sw` 
 
+#### ✅ Step 4: Go to the life location
+        `python3 -m venv <name of your python env>` 
+Example: 
+        `python3 -m venv qm2_BO`
+
+#### ✅ Step 5: activate environment
+        `source /nfs/chess/sw/<name of your python env>/bin/activate` 
+Example: 
+        `source /nfs/chess/sw/qm2_BO/bin/activate` 
 
 you can install your own python environments and have them added as an option when creating new notebooks.
 
