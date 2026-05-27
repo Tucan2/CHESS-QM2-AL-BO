@@ -1,5 +1,5 @@
 # CHESS Summer Student Onboarding
-## Welcome to the CHESS Summer Program for Quantum Materials Beamline (QM2)! This guide outlines the required steps and resources to help ensure a smooth onboarding process for all students!
+### Welcome to the CHESS Summer Program for Quantum Materials Beamline (QM2)! This guide outlines the required steps and resources to help ensure a smooth onboarding process for all students!
 
 #### ✅ Account Setup
 CLASSE IDs and BeamPASS logins are created by the IT group before students arrive. Make sure you can log in to both systems prior to your first day.
