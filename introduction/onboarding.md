@@ -49,7 +49,6 @@ Students will be issued a monthly radiation badge after:
 ## ✅ Onboarding Checklist
 
 ### Before Arrival
-- [ ] Complete CLASSE Safety Onboarding  
 - [ ] Receive CLASSE ID and BeamPASS login  
 
 ### After Arrival
