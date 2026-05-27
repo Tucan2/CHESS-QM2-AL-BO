@@ -13,7 +13,8 @@ Welcome to the CHESS Summer School AI Program.
 This repository contains:
 - Onboarding instructions
 - Project materials
-- Starter code and datasets
+- Study Materials
+- Datasets
 
 ## Goals
 - Learn about fundamentals of synchrotron data and AI applications
