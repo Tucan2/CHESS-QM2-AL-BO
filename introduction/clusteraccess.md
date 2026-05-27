@@ -35,7 +35,7 @@ Once ready, your prompt will update
 You are now running on a compute node 🎉
 
 #### ✅ Step 6: Activate your oqn environment
-    - Look at the env_creating.md file    
+    - Look at the env_creation.md file    
 
 ✅ Step 5: Start Your Work
 You can now:
