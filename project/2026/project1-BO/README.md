@@ -3,7 +3,7 @@
 
 
 The output file structure from nxrefine should look something like the following:
-Datafile: /nfs/chess/id4b/2025-2/sarker-0000-a/raw6m/sample_name/sample_id/temp/sample_name_scannumber/sample_name_PIL10_009_00001.cbf
+- Datafile: `/nfs/chess/id4b/2025-2/sarker-0000-a/raw6m/sample_name/sample_id/temp/sample_name_scannumber/sample_name_PIL10_009_00001.cbf`
 ```
 nfs
 └── chess
