@@ -21,7 +21,7 @@ This meeting provides important information about facility usage and expectation
 
 ### 1. CLASSE Safety Onboarding (Required Before Arrival)
 
-- Complete the safety onboarding form:  
+- Complete the safety onboarding form (MENTORS):  
   👉 https://cornell.qualtrics.com/SE/?SID=SV_cH1sSm110gVBttj  
 
 - Reference:  
