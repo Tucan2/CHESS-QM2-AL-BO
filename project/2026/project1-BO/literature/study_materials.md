@@ -11,8 +11,8 @@ Understanding Bayesian optimization and active learning
 - [ ] https://www.numberanalytics.com/blog/comprehensive-guide-practical-bayesian-optimization-implementation
 - [ ] https://gpttutorpro.com/active-learning-with-python-a-simple-example/
 - [ ] Phase Mapping + Active Learning (GitHub): phaseGP (very relevant – modern, BO + AL + GP)
-      - https://github.com/BigChemistry-RobotLab/phaseGP
-      - https://github.com/usnistgov/hermes
+      * https://github.com/BigChemistry-RobotLab/phaseGP
+      * https://github.com/usnistgov/hermes
 
 📌 Key idea:
 Chooses next experiment based on maximum uncertainty (entropy) [github.com]
