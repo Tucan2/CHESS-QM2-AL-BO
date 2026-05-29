@@ -1,6 +1,8 @@
 ## 📁 Files
 
-- **README.md** – Main project overview  
+- **README.md** – Main project overview
+
+In this section start with the onboarding, followed by cluster access anf then creating environment. 
 - **onboarding.md** – Student onboarding instructions  
 - **clusteraccess.md** – Cluster login and access guide  
 - **env_creation.md** – Environment setup instructions  
