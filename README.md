@@ -119,6 +119,9 @@ To get started quickly:
 
 ```
 
+## Summer program calender
+https://calendar.google.com/calendar/u/1/newembed?src=b28qms9vji53p2rar53a9hm0v8@group.calendar.google.com&ctz=America/New_York&csspa=1
+
 ## Contributing
 Contributions, improvements, and suggestions are welcome!
 Feel free to open issues or submit pull requests.
