@@ -55,7 +55,7 @@ Explore project tracks for the summer school:
   - Starter Code
   - Dataset Included
 
-- Project 4 — XTEC - raw data
+- Project 4 — Clustering - raw data
   - ./project/2026/project4-XTEC-raw/README.md
   - Literature & Study Materials
   - Starter Code
