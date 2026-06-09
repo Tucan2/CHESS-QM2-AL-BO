@@ -1,109 +1,69 @@
-
-# Advancing Quantum Materials Discovery: Towards Autonomous Decision Making
+#raw data clustering
 
 Calibration file:
 
-/nfs/chess/id4baux/2025-3/wilson-4300-b/calibrations/
-- CeO2_26keV.cbf
-- CeO2_26keV.poni
-- mask_26keV.edf
+/nfs/chess/id4baux/2025-2/he-4025-d/calibrations/
+- CeO2.cbf
+- CeO2.poni
+- mask.edf
 
 You can get more information from 
 pyFAI- https://pyfai.readthedocs.io/en/stable/
 
 Below is the Raw data : 
 
-In this HfV2 folder, you will able to see lots of temperature : 
-      ```
-      /nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/ 
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 65
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 45
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 37
-      drwxrwsr-x 5 chess_id4b root 70 Nov  7  2025 300
-      drwxrwsr-x 5 chess_id4b root 70 Nov  7  2025 250
-      drwxrwsr-x 5 chess_id4b root 70 Nov  7  2025 200
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 170
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 150
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 125
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 120
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 115
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 110
-      drwxrwsr-x 5 chess_id4b root 70 Nov  6  2025 100
-      ```
 
-You should extract the images listed below, making sure to select the files from the same position in each temperature set. If you go to the temperature-dependent folder, go to the 1st folder of each temperature. For every temperature, there are three folders (e.g., HfV2_012, HfV2_013, HfV2_014). 
-
-      ```
-      /nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/65
-      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_014
-      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_013
-      drwxrwsr-x 2 chess_id4b root 148K Nov  6  2025 HfV2_012
-      ```
-
-Select the first folder in the sequence (HfV2_012) and take its images (00001.cbf, 00002.cbf, …).
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/37/HfV2_012/
-HfV2_PIL10_006_00001.cbf
-HfV2_PIL10_006_00002.cbf
-HfV2_PIL10_006_00003.cbf or others
-When you move to the another temperature—for example, 45 K with folders HfV2_009, HfV2_010, HfV2_011—again choose the first folder (HfV2_009) and extract the corresponding images (00001.cbf, 00002.cbf, …)
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/45/HfV2_009/
+In this Ta2NiSeS70 folder, you will be able to see lots of temperatures: 
 
 
-HfV2_PIL10_009_00001.cbf
-HfV2_PIL10_009_00002.cbf
-HfV2_PIL10_009_00003.cbf or others
+/nfs/chess/id4b/2025-2/he-4025-d/raw6M/Ta2NiSeS70/S1/
 
 
-Please follow the steps for all the folders. 
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 240
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 17
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 21
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 25
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 30
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 35
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 40
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 50
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 60
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 70
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 90
+0 drwxrwsr-x 5 chess_id4b root 88 May 11  2025 110
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 115
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 117
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 119
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 121
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 123
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 126
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 129
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 140
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 150
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 160
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 170
+0 drwxrwsr-x 5 chess_id4b root 88 May 12  2025 180			
+The single crystal diffraction data were collected under grazing incidence conditions with three sets of θ (0,3,-3 ̋) and χ (90 ̋, 88 ̋, 97 ̋) rotations while continuously rotating φ through 0 ̋ to 360 ̋ in 0.1 ̋ steps with a 0.1-second counting time per image using a large area detector Pilatus 6M. Therefore, each temperature folder has 3 subfolders. 
+Example
+/nfs/chess/id4b/2025-2/he-4025-d/raw6M/Ta2NiSeS70/S1/17
 
 
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/37/HfV2_006/ (# this is the dataset, I showed you for 37K)
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/45/HfV2_009/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/65/HfV2_012/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/100/HfV2_015/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/110/HfV2_018/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/115/HfV2_021/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/120/HfV2_024/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/125/HfV2_027/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/150/HfV2_030/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/170/HfV2_033/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/200/HfV2_036/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/250/HfV2_039/
-/nfs/chess/id4b/2025-3/wilson-4300-b/raw6M/HfV2/s2/300/HfV2_042/ (# this is the dataset, I showed you for 300K)
+folders
+Ta2NiSeS70_006  Ta2NiSeS70_007  Ta2NiSeS70_008
 
 
-In addition, I am also sending you the processed data with a strong diffuse pattern in case you are interested in that. 
+Images
+Ta2NiSeS70_PIL10_006_00000.cbf  
+Ta2NiSeS70_PIL10_006_00001.cbf  
+Ta2NiSeS70_PIL10_006_00002.cbf  
+Ta2NiSeS70_PIL10_006_00003.cbf  
+Ta2NiSeS70_PIL10_006_00004.cbf  
+….
+Ta2NiSeS70_PIL10_006_03650.cbf
 
 
-/nfs/chess/id4baux/2025-3/wilson-4300-b/nxrefine/HfV2/s2/37/
-/nfs/chess/id4baux/2025-3/wilson-4300-b/nxrefine/HfV2/s2/300/
-
-
-
-
-Ground truth with close temperature range
-
-/nfs/chess/id4b/2026-1/wilson-4797-a/raw6M/HfV2/HfV2_g3_s2
-
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 23:02 89
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 22:36 80
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 18:17 70
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 22:08 69
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 21:40 60
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 21:11 50
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 20:41 40
-drwxrwsr-x 5 chess_id4b root 70 Mar  5 02:31 300
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 20:12 30
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 16:04 240
-drwxrwsr-x 5 chess_id4b root 70 Mar  5 02:04 200
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 19:45 20
-drwxrwsr-x 5 chess_id4b root 70 Mar  5 01:39 150
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 19:15 14
-drwxrwsr-x 5 chess_id4b root 70 Mar  5 01:13 130
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 17:18 13
-drwxrwsr-x 5 chess_id4b root 70 Mar  5 00:27 120
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 23:59 110
-drwxrwsr-x 5 chess_id4b root 70 Mar  4 23:30 100
-
-
-Just took the 1st folder of the data
+Take the first folder Ta2NiSeS70_006 and first 20 images (from Ta2NiSeS70_006  Ta2NiSeS70_007  Ta2NiSeS70_008). Next, took second temperature
+/nfs/chess/id4b/2025-2/he-4025-d/raw6M/Ta2NiSeS70/S1/21
+Subfolders
+Ta2NiSeS70_009  Ta2NiSeS70_010  Ta2NiSeS70_011
+Choose 20 images and so on 
