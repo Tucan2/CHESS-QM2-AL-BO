@@ -36,7 +36,7 @@ Once ready, your prompt will update
 You are now running on a compute node 🎉
 
 #### ✅ Step 6: Activate your oqn environment
-    - Look at the env_creation.md file    
+    - source /nfs/chess/sw/qm2_BO/bin/activate    
 
 ✅ Step 5: Start Your Work
 You can now:
