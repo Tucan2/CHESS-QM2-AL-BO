@@ -35,8 +35,8 @@ The system will allocate resources
 Once ready, your prompt will update
 You are now running on a compute node 🎉
 
-#### ✅ Step 6: Activate your oqn environment
-    - Look at the env_creation.md file    
+#### ✅ Step 6: Activate your own environment
+    - source /nfs/chess/sw/qm2_XTEC/bin/activate    
 
 ✅ Step 5: Start Your Work
 You can now:
